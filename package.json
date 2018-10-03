@@ -1,0 +1,19 @@
+{
+  "name": "fundamentals_forms",
+  "version": "1.0.0",
+  "description": "First project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickZheshko/Mifort_htmlcss_block1_fundamentals.git"
+  },
+  "author": "NickZheshko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickZheshko/Mifort_htmlcss_block1_fundamentals/issues"
+  },
+  "homepage": "https://github.com/NickZheshko/Mifort_htmlcss_block1_fundamentals#readme"
+}
